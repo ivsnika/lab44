@@ -1,0 +1,2 @@
+def ignatyeva():
+print (veronika)
